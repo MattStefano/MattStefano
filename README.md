@@ -2,6 +2,10 @@
 
 I’m passionate about cybersecurity and enjoy taking on complex challenges through hands-on projects. Whether it’s vulnerability management or threat detection, these projects give me the chance to dig deep into the constantly evolving security landscape. Feel free to explore them and see the work I’ve put into strengthening security operations and processes!
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]()**
+
 <hr/>
 
 ## 🤳 Connect With Me

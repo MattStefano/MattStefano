@@ -10,9 +10,11 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Matt's LinkedIn| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/mattstefano
+<div align="left">
+  <a href="https://www.linkedin.com/in/mattstefano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 

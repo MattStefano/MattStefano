@@ -16,13 +16,6 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
   </a>
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/mattstefano/mattstefano/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 
 <!--

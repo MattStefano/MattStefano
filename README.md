@@ -6,6 +6,10 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 - **[Vulnerability Management Program Implementation](https://github.com/MattStefano/Vulnerability-Management-Program)**
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MattStefano/Threat-Hunting-Scenario-Tor)**
+
 <hr/>
 
 ## 🤳 Connect With Me

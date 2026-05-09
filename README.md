@@ -10,6 +10,10 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MattStefano/Threat-Hunting-Scenario-Tor)**
 
+## 🛡️ System Hardening and Compliance
+
+- **[Windows 11 DISA STIG Remediations](https://github.com/MattStefano/Windows11-DISA-STIG-Remediations)**
+
 <hr/>
 
 ## 🤳 Connect With Me

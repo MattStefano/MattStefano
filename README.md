@@ -9,6 +9,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MattStefano/Threat-Hunting-Scenario-Tor)**
+- **[Threat Hunting Scenario (Helpdesk Deception)](https://github.com/MattStefano/Threat-Hunting-Scenario-Helpdesk-Deception)**
 
 ## 🛡️ System Hardening and Compliance
 
